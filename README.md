@@ -15,4 +15,3 @@ https://github.com/paulmercy/image-filter
 
 ### Ref Image from pixabay.com/
 https://cdn.pixabay.com/photo/2022/07/25/10/19/mountain-7343375__340.jpg
-
